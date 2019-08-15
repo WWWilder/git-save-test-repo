@@ -1,0 +1,6 @@
+.
+├── contents.txt
+└── sub2
+    └── blue.png
+
+1 directory, 2 files
